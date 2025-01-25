@@ -1,5 +1,5 @@
 # sales-insights-dashboard
-Global Superstore Sales Dashboard
+Global Superstore Sales insights Dashboard
 Overview
 This project focuses on creating an interactive Power BI Sales Dashboard using the Global Superstore sales dataset. The dashboard provides key insights into global sales, customer trends, and product performance, simplifying data interpretation for end-users.
 
